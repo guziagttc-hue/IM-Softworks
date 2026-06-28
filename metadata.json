@@ -1,0 +1,6 @@
+{
+  "name": "IM Softworks",
+  "description": "Landing page for IM Softworks, a software company providing custom software development, web applications, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
